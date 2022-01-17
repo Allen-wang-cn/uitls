@@ -1,3 +1,3 @@
-module github.com/Allen-wang-cn/uitls
+module github.com/Allen-wang-cn/utils
 
 go 1.15
