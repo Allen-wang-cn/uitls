@@ -21,3 +21,7 @@ func StrLen(param string) int64 {
 	ru := []rune(param)
 	return int64(len(ru))
 }
+
+func StrToSlip(param string) int64 {
+	return 0
+}
