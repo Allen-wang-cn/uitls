@@ -23,5 +23,6 @@ func StrLen(param string) int64 {
 }
 
 func StrToSlip(param string) int64 {
+
 	return 0
 }
